@@ -1,6 +1,8 @@
 
 # Notes
 
+Welcome to my GitHub repository containing notes on Python programming, Data Science, Data Analysis, Machine Learning (ML), Deep Learning, and Artificial Intelligence (AI). This repository serves as a comprehensive resource for those interested in these subjects.
+
 ## Contents
 
 1. [Python](#python)
